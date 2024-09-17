@@ -38,8 +38,6 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onNavigationItemSelected(item: MenuItem): Boolean {
-
-
                  TODO("Not Implemented Yet ")
             }
         }
